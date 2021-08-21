@@ -6,10 +6,11 @@ This is a simple messaging app that shows how Action Cable can be used to enhanc
 
 If running locally, make sure to open a second incognito window to try it out.
 Use these test accounts.
-Email: humblebragger@humblebrag.com
-Password humblebaby
-Email: fitnessgrampacer@test.com
-Password: pacertest
+<br>
+Email: humblebragger@humblebrag.com <br>
+Password humblebaby <br>
+Email: fitnessgrampacer@test.com <br>
+Password: pacertest <br>
 
 ## Demo
 
