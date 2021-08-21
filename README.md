@@ -13,6 +13,8 @@ Password: pacertest
 
 ## Demo
 
+![Messager Demo](messager-demo.gif)
+
 ## Features
 
 <ul>
