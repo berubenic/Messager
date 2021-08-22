@@ -26,13 +26,12 @@ Password: pacertest <br>
 ## Installation
 
 Prerequisites: Rails, Git, and Bundler
-
-   1. Clone this repo (Instructions)
-   2. Navigate into this project's directory cd flickr-stream
-   3. Install the required gems, by running bundle install
-   4. Migrate the database, by running rails db:migrate
-   5. Seed the database, by running rails db:seed
-   6. Start the local server, by running rails server
-   7. Open a browser and type http://localhost:3000
-   8. Open a second browser in incognito mode and type http://localhost:3000
-   9. Chat with yourself!
+1. Clone this repo ([Instructions](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository))
+2. Navigate into this project's directory ```cd flight_booker```
+3. Install the required gems, by running ```bundle install```
+4. Migrate the database, by running ```rails db:migrate```
+5. Seed the database, by running ```rails db:seed```
+6. Start the local server, by running ```rails server```
+7. Open a browser and type ```http://localhost:3000```
+8. Open a second browser in incognito mode and type ```http://localhost:3000```
+9. Chat with yourself!
