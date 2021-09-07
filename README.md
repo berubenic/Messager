@@ -27,7 +27,7 @@ Password: pacertest <br>
 
 Prerequisites: Rails, Git, and Bundler
 1. Clone this repo ([Instructions](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository))
-2. Navigate into this project's directory ```cd flight_booker```
+2. Navigate into this project's directory ```cd messenger```
 3. Install the required gems, by running ```bundle install```
 4. Migrate the database, by running ```rails db:migrate```
 5. Seed the database, by running ```rails db:seed```
